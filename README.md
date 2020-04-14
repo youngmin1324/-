@@ -14,10 +14,10 @@
   
 ### 게임 화면 
 - 시작 화면
-><img width="421" alt="1" src="https://user-images.githubusercontent.com/38491112/79225127-3c985880-7e97-11ea-9c18-a6921307f033.png">
+>><img width="421" alt="1" src="https://user-images.githubusercontent.com/38491112/79225127-3c985880-7e97-11ea-9c18-a6921307f033.png">
 
 - 플레이 화면
-><img width="421" alt="2" src="https://user-images.githubusercontent.com/38491112/79225098-330ef080-7e97-11ea-8a3c-ca12296840ae.png">
+>><img width="421" alt="2" src="https://user-images.githubusercontent.com/38491112/79225098-330ef080-7e97-11ea-8a3c-ca12296840ae.png">
 
 - 게임 오버 화면
-><img width="421" alt="3" src="https://user-images.githubusercontent.com/38491112/79225103-34d8b400-7e97-11ea-9b0d-e27d50a9f475.png">
+>><img width="421" alt="3" src="https://user-images.githubusercontent.com/38491112/79225103-34d8b400-7e97-11ea-9b0d-e27d50a9f475.png">
