@@ -21,3 +21,6 @@
 
 - 게임 오버 화면
 >><img width="421" alt="3" src="https://user-images.githubusercontent.com/38491112/79225103-34d8b400-7e97-11ea-9b0d-e27d50a9f475.png">
+
+### 게임 실행 방법
+>EarthWorm-Game/Release/EarthWorm.exe 실행
