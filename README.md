@@ -13,7 +13,7 @@
 > - *독이 든 먹이를 많이 먹어 몸이 사라지면 Game Over.*  
 
 ## 게임 방법
->방향키를 이용해 지렁이가 움직이는 방향을 바꿀 수 있다.
+방향키를 이용해 지렁이가 움직이는 방향을 바꿀 수 있다.
 
 ## 게임 화면 
 ### 시작 화면
@@ -25,5 +25,5 @@
 ### 게임 오버 화면
 <img width="421" alt="3" src="https://user-images.githubusercontent.com/38491112/79225103-34d8b400-7e97-11ea-9b0d-e27d50a9f475.png">
 
-## 게임 실행 방법
+## 게임 실행
 EarthWorm-Game/Release/EarthWorm.exe 실행
